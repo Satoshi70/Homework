@@ -4,7 +4,6 @@ body {
   height: 2000px;
   margin-top: 170px;
   font-style: Arial;
-  background-image: url(images.jpeg);
   text-align: center;
 }
 header {
@@ -19,8 +18,8 @@ header {
   border-bottom-style: solid;
   border-bottom-color:rgb(0, 0, 0) ;
     height: 150px;
-    background-image: url(pngtree-cute-hand-drawn-style-mathematics-education-pink-plaid-background-image_337364.jpg);
     color: rgba(56, 56, 56, 0.911);
+  background-color: rgb(0, 0, 0) ;
 }
 p {
   font-size: 20px;
